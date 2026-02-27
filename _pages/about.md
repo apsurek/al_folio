@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="#">George Mason University, Interdisciplinary Center for Economic Sciences</a>
+subtitle: George Mason University, Interdisciplinary Center for Economic Sciences
 
 profile:
   align: right
