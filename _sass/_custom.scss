@@ -1,0 +1,11 @@
+/* Shrink profile image on about page */
+.profile {
+  width: 180px;      /* adjust */
+  max-width: 180px;
+}
+
+.profile img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}

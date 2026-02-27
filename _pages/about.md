@@ -13,7 +13,7 @@ profile:
     <p>3434 Washington Blvd</p>
     <p>Arlington, VA 22201</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
