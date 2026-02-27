@@ -1,10 +1,10 @@
 # Contains the social media links and usernames of the author
 # Reference: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/psurek_aleksander_cv.pdf  # CV PDF file
-email: apsurek@gmu.edu  # email address
-scholar_userid: Pbzji0kAAAAJ  # Google Scholar ID
-github_username: apsurek  # Github
-linkedin_username: aleksander-psurek  # LinkedIn
-orcid_id: 0009-0000-4228-031X  # ORCHiD
-osf_id: yz3xh  # Open Science Foundation
-x_username: a_psurek  # X/Twitter
+cv_pdf: /assets/pdf/psurek_aleksander_cv.pdf # CV PDF file
+email: apsurek@gmu.edu # email address
+scholar_userid: Pbzji0kAAAAJ # Google Scholar ID
+github_username: apsurek # Github
+linkedin_username: aleksander-psurek # LinkedIn
+# orcid_id: 0009-0000-4228-031X # ORCHiD
+osf_id: yz3xh # Open Science Foundation
+# x_username: a_psurek # X/Twitter
