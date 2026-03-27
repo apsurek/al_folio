@@ -27,4 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-PhD Candidate in Economics at George Mason University. I do political economy and institutional design.
+PhD Candidate in Economics at George Mason University.
+
+I am interested in political economy, regulations, finance, and institutional design.
+
+I have used a mix of empirics, game theory, computational methods, and lab experiments in my work.
