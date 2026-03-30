@@ -29,23 +29,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
-      - name: Debug filesystem and working directory
-        run: |
-          echo "📍 Current Working Directory:"
-          pwd
-          echo ""
-          echo "📂 Directory Contents (root):"
-          ls -la
-          echo ""
-          echo "📂 _data Directory Contents:"
-          ls -la _data/ 2>/dev/null || echo "❌ _data directory does not exist"
-          echo ""
-          echo "🔍 Absolute path to citations.yml:"
-          [ -f _data/citations.yml ] && echo "✅ File exists at: $(pwd)/_data/citations.yml" || echo "❌ File not found"
-          echo ""
-          echo "🔍 All .yml files in repo:"
-          find . -name "*.yml" -type f | head -20
-          
       - name: Save current citations.yml hash
         id: before
         run: |
