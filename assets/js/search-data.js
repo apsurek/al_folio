@@ -52,11 +52,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/aleksander-psurek", "_blank");
         },
       },{
-        id: 'social-osf',
-        title: 'Open Science Framework',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://osf.io/yz3xh/", "_blank");
+          window.open("https://orcid.org/0009-0000-4228-031X", "_blank");
         },
       },{
       id: 'light-theme',
