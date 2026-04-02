@@ -6,7 +6,7 @@ subtitle: George Mason University, Interdisciplinary Center for Economic Science
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>apsurek@gmu.edu</p>
@@ -29,6 +29,6 @@ latest_posts:
 
 PhD Candidate in Economics at George Mason University.
 
-I am interested in political economy, regulations, finance, and institutional design.
+My interests are in political economy, regulations, finance, and institutional design. I use a mix of empirics, game theory, computational methods, and lab experiments in my work.
 
-I have used a mix of empirics, game theory, computational methods, and lab experiments in my work.
+I have co-taught or assisted in teaching undergraduate-level managerial economics and graduate level computational economics, experimental economics, and microeconometrics.
